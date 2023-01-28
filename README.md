@@ -31,7 +31,7 @@ As a Data Scientist, I am honored to tackle intellectually challenging and signi
 
 <h3>📫 Where to find me</h3>
 <p>
-<a href="https://www.linkedin.com/in/paliz-mungkaladung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://palizmun.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/paliz-mungkaladung" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/paliz-mungkaladung"_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/paliz-mungkaladung" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F50057?&style=for-the-badge&logo=ProtonDB&logoColor=white" /></a>
